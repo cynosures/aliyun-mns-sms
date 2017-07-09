@@ -1,0 +1,12 @@
+{
+  "name": "aliyun-mns-sms",
+  "version": "0.0.1",
+  "description": "aliyun-mns,aliyun-mns-sms",
+  "main": "index.js",
+  "repository": "git@github.com:cynosures/aliyun-mns-sms.git",
+  "author": "cynosure",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
